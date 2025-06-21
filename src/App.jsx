@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import { Sidebar } from "./components/sidebar"
+import { Sidebar } from "./components/Sidebar"
 import { MainContent } from "./components/MainContent"
 import { MusicPlayer } from "./components/MusicPlayer"
 import { SearchResults } from "./components/SearchResults"
